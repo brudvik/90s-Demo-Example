@@ -1,3 +1,5 @@
+![Example output](https://github.com/brudvik/90s-Demo-Example/blob/master/DemoTest/assets/kab-demo-2025.png)
+
 # Project Overview
 This project is a retro-inspired multimedia demo application built with C# 12 and .NET 8, emulating the style and spirit of classic 1990s demoscene productions. It combines real-time 2D/3D graphics, audio visualization, particle effects, and custom text rendering to create a visually rich, interactive experience. The application is structured around a main form (MainForm) that orchestrates all rendering, animation, and audio playback.
 
